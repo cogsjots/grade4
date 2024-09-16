@@ -82,7 +82,7 @@ Avaḷa havaḷada sara
 |     |          |        |        |
 | --- | -------- | ------ | ------ |
 | 1   | **ಅವಳ**  | Avaḷa  | Her    |
-| 2   | **ಹವಳದ** | red pearl / coral | Necklace |
+| 2   | **ಹವಳದ** | havaḷada | red pearl / coral |
 | 3   | **ಸರ**   | Sara   | Necklace |
 
 ### ೧೦. ಅವನ ಓಟದ ಆಟ
@@ -157,14 +157,14 @@ Havaḷada sara phaḷaphaḷa
 | 3   | **ಫಳಫಳ** | Phaḷaphaḷa | Pearls  |
 
 ### ೧೭. ರಥದ ಕಳಸ ಥಳಥಳ
-**17.** Churner of a chariot  
+**17.** The crown of the chariot is jingling  
 Rathada kaḷasa thaḷathaḷa
 
 |     |          |        |        |
 | --- | -------- | ------ | ------ |
 | 1   | **ರಥದ** | Rathada | Chariot’s |
-| 2   | **ಕಳಸ** | Kaḷasa | Churner  |
-| 3   | **ಥಳಥಳ** | Thaḷathaḷa | Churner’s noise |
+| 2   | **ಕಳಸ** | Kaḷasa | Calyx, crown  |
+| 3   | **ಥಳಥಳ** | Thaḷathaḷa | Rattling / jingling sound |
 
 ### ೧೮. ಗಜದ ಓಟ ಬಹಳ ಮಜ
 **18.** Elephant’s race is very fun  
