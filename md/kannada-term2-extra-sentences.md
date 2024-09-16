@@ -76,13 +76,13 @@ Nayanala tabala
 | 2   | **ತಬಲ**  | Tabala | Tabla  |
 
 ### ೯. ಅವಳ ಹವಳದ ಸರ
-**9.** Her necklace  
+**9.** Her coral necklace  
 Avaḷa havaḷada sara
 
 |     |          |        |        |
 | --- | -------- | ------ | ------ |
 | 1   | **ಅವಳ**  | Avaḷa  | Her    |
-| 2   | **ಹವಳದ** | Havaḷada | Necklace |
+| 2   | **ಹವಳದ** | red pearl / coral | Necklace |
 | 3   | **ಸರ**   | Sara   | Necklace |
 
 ### ೧೦. ಅವನ ಓಟದ ಆಟ
